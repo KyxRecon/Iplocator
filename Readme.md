@@ -1,3 +1,5 @@
+ Welcome to the Iplocator README file!
+
 # ip locator : is a simple tool coded in perl to help you to identify sites or victims geographical location
 without login in the browser and search about & it capable find, i.e. country, region, city, latitude, longitude, ZIP code, time zone, connection speed, ISP, domain name, IDD country code, area code, weather station code and name, mobile carrier, elevation and usage type information using a proprietary IP address lookup database and technology without invading the Internet user's privacy. 
 
