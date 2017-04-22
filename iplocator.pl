@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 # Ip Geolocation 
-#By : Lucifer
+#By : Kyxrec0n
 # Demo : https://www.youtube.com/watch?v=0Eq3d10LQ8c
 #
 # API documentation - http://ip-api.com/docs/
